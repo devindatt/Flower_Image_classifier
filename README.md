@@ -5,12 +5,6 @@
 
 
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 # Installation
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python, PyTorch and PIL. The code should run with no issues using Python versions 3.*, PyTorch, PIL.
